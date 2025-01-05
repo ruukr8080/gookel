@@ -1,6 +1,6 @@
 const { app, BrowserWindow } = require('electron')
 // include the Node.js 'path' module at the top of your file
-const path = require('path')
+const path = require('path');
 
 
 // modify your existing createWindow() function
